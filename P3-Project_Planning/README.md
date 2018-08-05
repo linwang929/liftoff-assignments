@@ -5,11 +5,17 @@ For this assignment, you'll create some initial plans for your project.
 [Project Planning Assignment](https://education.launchcode.org/liftoff/assignments/planning/)
 
 ## Submission Instructions
+Once you have finished both wireframe and user story components, commit and push your changes to your liftoff-assignments repository and submit the assignment on Canvas by submitting the URL to your outline. 
 
 ### Wireframes
 
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+I created three wireframes in [this linked pdf document](https://github.com/linwang929/liftoff-assignments/blob/master/P3-Project_Planning/ProjectPlanningWireframes.pdf):
+* Homepage - a list of upcoming programs
+* Event details page
+* User login page
 
 ### Project Tracker
 
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+I am going to use Trello to track the progress of my project. You can view the user stories I have created [here](https://trello.com/b/oHpfvhqZ/my-capstone-project).
+
+### GitHub Initial Project Repository
